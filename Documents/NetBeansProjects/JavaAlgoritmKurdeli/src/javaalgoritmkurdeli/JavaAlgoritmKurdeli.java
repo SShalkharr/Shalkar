@@ -14,6 +14,7 @@ public class JavaAlgoritmKurdeli {
         int [][]san = new int[n][s];
         Random_Sandar(san,n,s);
           
+          
         System.out.println("\n\n");
         System.out.println("Shakerli sorttau natigesi: ");
       
@@ -53,5 +54,4 @@ public class JavaAlgoritmKurdeli {
               }   System.out.println("");             
           }
     }
-      
 }
