@@ -45,6 +45,7 @@ public class JavaAlgoritmKurdeli {
           }
       }
     }
+    
     static void Kaita_shygaru(int san[][],int n,int s){
         for(int i = 0; i < n; i++){
               for(int j = 0; j < s; j++){
